@@ -9,3 +9,5 @@ In this project, I worked with AWS S3 using the CLI. The steps I followed:
 	•	Granting Read permission for everyone on the Object.
 
 The goal of this project is to understand how to manage S3 Buckets and Objects using the CLI and control their access permissions for public availability
+code 
+from aws documents ref command
